@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sumapp</string>
+    <string name="welcome_to_this_app">Welcome to this app</string>
+    <string name="button">Button</string>
+    <string name="wait_for_the_result">Wait for the result</string>
+    <string name="enter_the_second_value">Enter the second value</string>
+    <string name="enter_the_first_value">Enter the first value</string>
+
+
+</resources>
